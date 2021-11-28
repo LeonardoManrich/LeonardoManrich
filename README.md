@@ -2,8 +2,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/LeonardoManrich)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-manrich-122233202/)](https://www.linkedin.com/in/leonardo-manrich/)
+![](https://dcbadge.vercel.app/api/shield/398302752092061696?style=flat-square)
 <!--[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)-->
-![](https://dcbadge.vercel.app/api/shield/398302752092061696?style=flat-square&?compact=true)
+
   
 # About me
 I'm a fullstack developer.
