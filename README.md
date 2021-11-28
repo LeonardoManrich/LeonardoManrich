@@ -7,10 +7,10 @@
 
   
 # About me
-I'm a fullstack developer.
+I'm a full stack developer.
 
 :books: I'm currently majoring in Software Engineering at Fundação Assis Gurgacz - FAG <br>
-:desktop_computer: and working as a fullstack developer at @WebGopher 
+:desktop_computer: and working as a full stack developer at @WebGopher 
 
 
 #
