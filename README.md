@@ -10,8 +10,9 @@
 - I'm a full stack developer.
 
 - :books: I'm currently majoring in Software Engineering at Fundação Assis Gurgacz - FAG
-- :desktop_computer: Working as a full stack developer at @WebGopher 
-- 🌱 I’m currently learning PHP, Laravel, Redis, Mysql and IT infrastructure
+- :desktop_computer: Working as a full stack developer at @WebGopher
+- :eyes: MVC, SOLID, REST, TDD, SCRUM
+- :open_book: I’m currently learning PHP, Laravel, Redis, Mysql and IT infrastructure
 
 #
 ![image](https://img.shields.io/badge/PHP-777BB4?style=flat-square&?compact=true&logo=php&logoColor=white)
