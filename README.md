@@ -16,6 +16,7 @@
 #
 ![image](https://img.shields.io/badge/PHP-777BB4?style=flat-square&?compact=true&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&?compact=true&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&?compact=true&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&?compact=true&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&?compact=true&logo=codeigniter&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=flat-square&?compact=true&logo=markdown&logoColor=white)
