@@ -23,7 +23,7 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&?compact=true&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&?compact=true&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=flat-square&?compact=true&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&?compact=true&logo=vuedotjs&logoColor=4FC08D)
+<!-- ![image](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&?compact=true&logo=vuedotjs&logoColor=4FC08D) -->
   
 <!-- ![Snake animation](https://github.com/LeonardoManrich/LeonardoManrich/blob/output/github-contribution-grid-snake.svg) -->
 
