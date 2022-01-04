@@ -7,8 +7,7 @@
 
   
 # About me
-- I'm a full stack web developer.
-
+- :dart: I'm a full stack web developer.
 - :books: I'm currently majoring in Software Engineering at Fundação Assis Gurgacz - FAG
 - :desktop_computer: Working as a full stack developer at @WebGopher
 - :eyes: MVC, SOLID, REST, TDD, SCRUM
